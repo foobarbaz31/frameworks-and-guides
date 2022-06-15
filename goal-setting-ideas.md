@@ -66,5 +66,22 @@ This method helps discover hidden customer pain points, sub-optimal system desig
 
 Fixing these issues, not makes your teams' developer experience easy, but sometimes also ends up saving a lot of money for the company.
 
+## Improving Developer Experience
+
+This is also an interesting personal goal to aspire to.
+
+### CI pipeline and Quality
+You can start by looking at your CI pipeline
+
+1. check if there are any stages that take too long (eg, tests or build times, etc). See if this can be optimized.
+2. See if any tests are flaky that you can improve.
+3. Ensure your CI pipeline performs basic quality checks, adds code coverage, etc
+
+### Documentation
+
+If you have had to personally to understand how an application works (because of missing readme) or if there is lack of clarity about a  process (eg, scrum ceremonies followed by your team), document what you learnt on your own.
+
+This will not only help future onboarding, but also helps you confirm your understanding of the systems!
+
 # Conclusion
 Hope this helps !
