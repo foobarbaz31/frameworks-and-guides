@@ -6,4 +6,4 @@ PRs / suggestions / comments are more than welcome
 
 # Table of Contents
 1. [Ideas for goals (for the goal setting cycle)](https://github.com/shwetasabne/frameworks-and-guides/blob/main/goal-setting-ideas.md)
-2. How to have efficient EOY personal review - aka The Brag Doc
+2. [How to have efficient EOY personal review - aka The Brag Doc](https://github.com/shwetasabne/frameworks-and-guides/blob/main/brag-doc-customized.md)
