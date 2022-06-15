@@ -1,5 +1,5 @@
 # What is Goal Setting ?
-Everyone who has worked in a company with > 50 employees has undergone the process of yearly goal setting. Goals are set against which your performance is measure and based on that your promotion / bonuses, etc get decided.
+Everyone who has worked in a company with > 50 employees has undergone the process of yearly goal setting. Goals are set; against which your performance is measured and based on that your promotion / bonuses, etc get decided.
 
 Various blogs speak about effective strategies for goal setting, with [S.M.A.R.T Goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals) being industry favorite.
 
