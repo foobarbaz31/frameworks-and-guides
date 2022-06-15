@@ -64,7 +64,7 @@ For eg, do you see a large number of 5xx that could really be 4xx ? do you see n
 
 This method helps discover hidden customer pain points, sub-optimal system design issues, non-standard design pattern. 
 
-Fixing these issues, not makes your teams' developer experience easy, but sometimes also ends up saving a lot of money for the company.
+Fixing these issues, not only makes your teams' developer experience easy, but sometimes also ends up saving a lot of money for the company.
 
 ## Improving Developer Experience
 
