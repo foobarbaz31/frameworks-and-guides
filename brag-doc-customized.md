@@ -17,14 +17,24 @@ I think when we write self-evaluation at the end of the year, I tend to focus on
 
 Hence I use the following template, where I break down my brag doc like :
 
-* Work I directly did
-* Work I helped do
-* Work I brainstormed on and potentially influenced
-* Work I identified for others to do 
+## Work I directly did
+
+Eg: projects, epics, tickets, features, bugs, tech scope, system design - I actually led / did / implemented
+
+## Work I helped do
+Eg: scenarios where I was a co-pilot as in someone else led the project but I implemented some tickets under the project or performed code pairs, bug bashes, etc
+
+## Work I brainstormed on and potentially influenced
+Eg: arch review / system design review meetings I attended and made valuable comments; meetings I attended and made contributions that influenced requiremetns or implementations, etc (even though I was not necessarily incharge of the project)
+
+## Work I identified for others to do
+Eg: any bugs I found and created bug tickets for ;) 
+
+
+# Conclusion 
 
 And literally any little thing I think I have done that fits in the above criteria gets added to my doc. 
 
 That way, when time comes to submit my self-eval I don't have to rack my brains and sell myself short :) 
 
-# Conclusion 
 Hope this helps !
