@@ -17,10 +17,10 @@ I think when we write self-evaluation at the end of the year, I tend to focus on
 
 Hence I use the following template, where I break down my brag doc like :
 
-Work I directly did
-Work I helped do
-Work I brainstormed on and potentially influenced
-Work I identified for others to do 
+* Work I directly did
+* Work I helped do
+* Work I brainstormed on and potentially influenced
+* Work I identified for others to do 
 
 And literally any little thing I think I have done that fits in the above criteria gets added to my doc. 
 
